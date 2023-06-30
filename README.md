@@ -1,7 +1,7 @@
 <img src="https://github.com/renataprs/Side-Projects/blob/master/cover.png" width="100%"/>
 
 <h2 align="center">
- Rocketseat - Bootcamp Explorer | Projects & Challenges 
+ Rocketseat - Explorer | Projects & Challenges 
 </h2>
 <p align="center">
   By | 
