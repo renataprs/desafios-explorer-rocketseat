@@ -1,8 +1,9 @@
 <img src="https://github.com/renataprs/Side-Projects/blob/master/cover.png" width="100%"/>
 
 <h2 align="center">
- Bootcamp Explorer - Rocketseat | Projects & Challenges 
+ Rocketseat - Bootcamp Explorer | Projects & Challenges 
 </h2>
+<p align="center">
   By | 
   <a href="https://github.com/renataprs" target="_blank">Renata Pires</a>
   <br><br>
