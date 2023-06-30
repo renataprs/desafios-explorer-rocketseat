@@ -7,8 +7,8 @@
   By | 
   <a href="https://github.com/renataprs" target="_blank">Renata Pires</a>
   <br><br>
-  <a href="https://github.com/requaresma/Frontend-Pathway/blob/master/README.md#log-of-my-progress" rel="nofollow">
-<img src="https://img.shields.io/badge/Status-Always Evolving-blue";link=https://github.com/requaresma/Frontend-Pathway/blob/master/README.md#log-of-my-progress" style="max-width:100%;"></a>
+  <a href="#" rel="nofollow">
+<img src="https://img.shields.io/badge/Status-Always%20evolving-%237E57D7" style="max-width:100%;"></a>
   </p>
 
 ## Technologies and concepts explored 🔎
