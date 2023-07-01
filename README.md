@@ -9,7 +9,7 @@
 </p>
 
 ## 👋 Welcome!
-*In this repository, I document all of my accomplishments and knowledge gained through Explorer, a coding bootcamp offered by Rocketseat. Here, you can explore a collection of projects that showcase my growth as a developer. With each project, I aim to demonstrate my ability to solve real-world problems using code.*
+*In this repository, I document all of my accomplishments and knowledge gained through Explorer, a coding bootcamp offered by [Rocketseat](https://www.rocketseat.com.br/). Here, you can explore a collection of projects that showcase my growth as a developer. With each project, I aim to demonstrate my ability to solve real-world problems using code.*
 
 ### About Rocketseat Coding School
 >Rocketseat stands as one of Brazil's premier coding schools, renowned for its hands-on programs. Their coding bootcamps, namely "Explorer" and "Ignite," offer immersive learning experiences in cutting-edge web and mobile development technologies. These bootcamps emphasize full-stack JavaScript development, specifically focusing on Node.js, React.js, and React Native.
