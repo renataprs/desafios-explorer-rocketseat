@@ -1,11 +1,9 @@
 <h1 align="center"> Homepage Flutuar </h1>
-
 <p align="center">
-  [Desafio](#desafio)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-ferramentas-&-Tecnologias">Ferramentas & Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  
+  <a href="README.en.md">English</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="README.pt.md">Português</a>&nbsp;&nbsp;&nbsp;
 </p>
+
 <a id="desafio"></a>
 ## Desafio:
 Desenvolver uma página web para uma agência de viagens usando HTML e CSS, com base em um design fornecido no Figma, 
@@ -21,5 +19,5 @@ com o objetivo de consolidar os conceitos aprendidos em aula, entre eles:
 
 ## Layout
 <p align="center">
-<img width="70%" src="https://imgur.com/a/Yzslid9" alt="Project Image"/>
+<img width="70%" src="https://i.imgur.com/yWRg5f4.png" alt="Project Image"/>
 </p>
