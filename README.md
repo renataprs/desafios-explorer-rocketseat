@@ -3,11 +3,9 @@
 <h2 align="center">
  Rocketseat - Explorer | Projects & Challenges 
 </h2>
-<p align="center">
-  By | 
-  <a href="https://github.com/renataprs" target="_blank">Renata Pires</a>
-  <a href="#" rel="nofollow">
-<img src="https://img.shields.io/badge/Status-Always%20evolving-%237E57D7" style="max-width:100%;"></a>
+ <p align="center">
+ <a href="https://github.com/renataprs" target="_blank">Renata Pires</a><img src="https://img.shields.io/badge/By-Renata%20Pires-%237E57D7">
+<a href="#" rel="nofollow"> <img src="https://img.shields.io/badge/Status-Always%20evolving-%237E57D7" style="max-width:100%;"></a>
   </p>
 
 ## Technologies and concepts explored 🔎
