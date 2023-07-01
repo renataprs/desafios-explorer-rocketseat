@@ -1,12 +1,8 @@
 <h1 align="center"> Homepage Flutuar </h1>
 
 <p align="center">
-#boraCodar são desafios semanais, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-</p>
-
-<p align="center">
-  <a href="#-Desafio">Desafio</a>
-  <a href="#-Ferramentas">Ferramentas & Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-desafio">Desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-ferramentas-&-Tecnologias">Ferramentas & Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   
 </p>
@@ -25,5 +21,5 @@ com o objetivo de consolidar os conceitos aprendidos em aula, entre eles:
 
 ## Layout
 <p align="center">
-<img width="70%" src="https://imgur.com/a/Yzslid9" alt="Covid Image"/>
+<img width="70%" src="https://imgur.com/a/Yzslid9" alt="Project Image"/>
 </p>
