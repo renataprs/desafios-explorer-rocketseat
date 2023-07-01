@@ -10,8 +10,7 @@
 <p align="center">
  <a href="#-Welcome">About</a> •
  <a href="#-Table-of-Contents">Projects</a> •
- <a href="#Let">Contact</a>
-</p>
+ </p>
 
 ## 👋 Welcome!
 *In this repository, I document all of my accomplishments and knowledge gained through Explorer, a coding bootcamp offered by [Rocketseat](https://www.rocketseat.com.br/). Here, you can explore a collection of projects that showcase my growth as a developer. With each project, I aim to demonstrate my ability to solve real-world problems using code.*
