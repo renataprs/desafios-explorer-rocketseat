@@ -12,12 +12,12 @@
 Develop a web page for a travel agency using HTML and CSS, based on a design provided in Figma, 
 with the objective of consolidating the concepts learned in class, including:
 
-Structuring an HTML project;
-Using the most common HTML tags;
-Basic concepts of CSS;
-Element positioning and alignment on the screen;
-Applying custom fonts;
-Spacing.
+- Structuring an HTML project;
+- Using the most common HTML tags;
+- Basic concepts of CSS;
+- Element positioning and alignment on the screen;
+- Applying custom fonts;
+- Spacing.
 
 ## Tools and Technologies:
 
