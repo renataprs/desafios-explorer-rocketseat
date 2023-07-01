@@ -9,14 +9,10 @@
 </p>
 
 ## 👋 Welcome!
-*In this repository, I document all of my accomplishments and knowledge gained through Explorer, a coding bootcamp offered by Rocketseat. Here, you can explore a collection of projects that showcase my growth as a developer. With each project, I aim to demonstrate my ability to solve real-world problems using code.
-I hope you find something here that sparks your interest and inspires you. Feel free to provide feedback or collaborate with me on any ideas. Happy coding!*
+*In this repository, I document all of my accomplishments and knowledge gained through Explorer, a coding bootcamp offered by Rocketseat. Here, you can explore a collection of projects that showcase my growth as a developer. With each project, I aim to demonstrate my ability to solve real-world problems using code.*
 
 ### About Rocketseat Coding School
 >Rocketseat stands as one of Brazil's premier coding schools, renowned for its hands-on programs. Their coding bootcamps, namely "Explorer" and "Ignite," offer immersive learning experiences in cutting-edge web and mobile development technologies. These bootcamps emphasize full-stack JavaScript development, specifically focusing on Node.js, React.js, and React Native.
-
-### Technologies and explored concepts
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#) [![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
 
 ---
 ## Table of Contents
