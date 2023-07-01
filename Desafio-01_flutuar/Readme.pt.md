@@ -1,12 +1,12 @@
 <h1 align="center"> Homepage Flutuar </h1>
 
 <p align="center">
-  <a href="#-desafio">Desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  [Desafio](#desafio)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-ferramentas-&-Tecnologias">Ferramentas & Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   
 </p>
-
+<a id="desafio"></a>
 ## Desafio:
 Desenvolver uma página web para uma agência de viagens usando HTML e CSS, com base em um design fornecido no Figma, 
 com o objetivo de consolidar os conceitos aprendidos em aula, entre eles: 
