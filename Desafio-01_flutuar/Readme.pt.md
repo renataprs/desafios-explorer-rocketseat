@@ -24,6 +24,3 @@ com o objetivo de consolidar os conceitos aprendidos em aula, entre eles:
 )](#) 
 
 
-### Let's connect!🤝
-Please feel free to connect with me: <br><br>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renataprs/)
