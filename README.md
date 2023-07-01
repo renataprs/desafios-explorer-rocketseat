@@ -1,4 +1,4 @@
-<img src="https://github.com/renataprs/Side-Projects/blob/master/cover.png" width="100%"/>
+<img src="https://imgur.com/1stBRwP" width="100%"/>
 
 <h2 align="center">
  Rocketseat - Explorer | Projects & Challenges 
@@ -6,7 +6,6 @@
 <p align="center">
   By | 
   <a href="https://github.com/renataprs" target="_blank">Renata Pires</a>
-  <br><br>
   <a href="#" rel="nofollow">
 <img src="https://img.shields.io/badge/Status-Always%20evolving-%237E57D7" style="max-width:100%;"></a>
   </p>
