@@ -10,7 +10,7 @@
 <p align="center">
  <a href="#-Welcome">About</a> •
  <a href="#-Table-of-Contents">Projects</a> •
- <a href="#-Let's-connect">Contact</a>
+ <a href="#-Contact">Contact</a>
 </p>
 
 ## 👋 Welcome!
@@ -30,7 +30,7 @@
 
 
 
-### Let's connect!🤝
+### Contact!🤝
 Please feel free to connect with me: <br><br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renataprs/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renataprs)
