@@ -5,7 +5,7 @@
 </h1>
  <p align="center">
  <a href="https://github.com/renataprs" target="_blank"><img src="https://img.shields.io/badge/By-Renata%20Pires-%237E57D7"></a>
-<a href="#" rel="nofollow"> <img src="https://img.shields.io/badge/Status-Always%20evolving-%10B9BD" style="max-width:100%;"></a>
+<a href="#" rel="nofollow"> <img src="https://img.shields.io/badge/Status-Always%20evolving-%2310B9BD" style="max-width:100%;"></a>
   </p>
 
 ### Technologies and concepts explored
