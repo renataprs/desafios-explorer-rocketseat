@@ -4,8 +4,8 @@
  Rocketseat - Explorer | Projects & Challenges 
 </h1>
  <p align="center">
- <a href="https://github.com/renataprs" target="_blank"><img src="https://img.shields.io/badge/By-Renata%20Pires-%237E57D7"></a>
-<a href="#" rel="nofollow"> <img src="https://img.shields.io/badge/Status-Always%20evolving-%2310B9BD" style="max-width:100%;"></a>
+ <a href="https://github.com/renataprs" target="_blank"><img src="https://img.shields.io/badge/By-Renata%20Pires-%2310B9BD"></a>
+<a href="#" rel="nofollow"> <img src="https://img.shields.io/badge/Status-Always%20evolving-%237E57D7" style="max-width:100%;"></a>
 </p>
 
 >*Welcome to my coding bootcamp projects repository! Here, you can explore a collection of projects that showcase my growth as a developer. With each project, I aim to demonstrate my ability to solve real-world problems using code.
