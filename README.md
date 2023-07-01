@@ -20,8 +20,9 @@
 
 ---
 ## 🔎 Table of Contents
-- [01 - Homepage Flutuar](https://github.com/renataprs/desafios-explorer-rocketseat/tree/main/Desafio-01_flutuar)
-- [02 - Homepage Treine.me](https://github.com/renataprs/desafios-explorer-rocketseat/tree/main/Treine-me)
+- [01 - Landing Page Flutuar](https://github.com/renataprs/desafios-explorer-rocketseat/tree/main/Desafio-01_flutuar)
+- [02 - Landing Page Treine.me](https://github.com/renataprs/desafios-explorer-rocketseat/tree/main/Treine-me)
+- [03 - Landing Page Rocket.Sect](#)
 
 
 
