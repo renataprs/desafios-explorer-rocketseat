@@ -8,8 +8,8 @@
 <a href="#" rel="nofollow"> <img src="https://img.shields.io/badge/Status-Always%20evolving-%2310B9BD" style="max-width:100%;"></a>
 </p>
 
->*Welcome to my coding bootcamp projects repository!
->Here, you can explore a collection of projects that showcase my growth as a developer. With each project, I aim to demonstrate my ability to solve real-world problems using code.
+>*Welcome to my coding bootcamp projects repository!<br>
+>Here, you can explore a collection of projects that showcase my growth as a developer. With each project, I aim to demonstrate my ability to solve real-world problems using code.<br>
 >I hope you find something here that sparks your interest and inspires you. Feel free to provide feedback or collaborate with me on any ideas. Happy coding! 🚀*
 
 ### Technologies and concepts explored
