@@ -10,7 +10,7 @@
 <p align="center">
  <a href="#-Welcome">About</a> •
  <a href="#-Table-of-Contents">Projects</a> •
- <a href="#-Let's-connect">Contact</a>
+ <a href="#-Let'-s-connect">Contact</a>
 </p>
 
 ## 👋 Welcome!
