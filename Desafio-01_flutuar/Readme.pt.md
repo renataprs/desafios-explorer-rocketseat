@@ -20,8 +20,10 @@ com o objetivo de consolidar os conceitos aprendidos em aula, entre eles:
 
 ## Ferramentas & Tecnologias:
 
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) [![Figma](https://img.shields.io/badge/Figma-black?style=flat&logo=figma&logoColor=%23EA4C1D
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) [![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=%23EA4C1D
 )](#) 
 
 
-
+### Let's connect!🤝
+Please feel free to connect with me: <br><br>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renataprs/)
