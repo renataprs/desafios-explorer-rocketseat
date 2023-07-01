@@ -7,6 +7,10 @@
  <a href="https://github.com/renataprs" target="_blank"><img src="https://img.shields.io/badge/By-Renata%20Pires-%2310B9BD"></a>
 <a href="#" rel="nofollow"> <img src="https://img.shields.io/badge/Status-Always%20evolving-%237E57D7" style="max-width:100%;"></a>
 </p>
+<p align="center">
+ <a href="#-Welcome">About</a> •
+ <a href="#-Table-of-Contents">Projects</a>
+</p>
 
 ## 👋 Welcome!
 *In this repository, I document all of my accomplishments and knowledge gained through Explorer, a coding bootcamp offered by [Rocketseat](https://www.rocketseat.com.br/). Here, you can explore a collection of projects that showcase my growth as a developer. With each project, I aim to demonstrate my ability to solve real-world problems using code.*
