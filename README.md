@@ -1,4 +1,4 @@
-<img src="https://github.com/renataprs/desafios-explorer-rocketseat/blob/main/cover-explorer.png" width="100%"/>
+<img src="https://github.com/renataprs/desafios-explorer-rocketseat/blob/main/banner-explorer.png" width="100%"/>
 
 <h1 align="center">
  Rocketseat - Explorer | Projects & Challenges 
