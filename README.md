@@ -15,7 +15,7 @@
 >Rocketseat stands as one of Brazil's premier coding schools, renowned for its hands-on programs. Their coding bootcamps, namely "Explorer" and "Ignite," offer immersive learning experiences in cutting-edge web and mobile development technologies. These bootcamps emphasize full-stack JavaScript development, specifically focusing on Node.js, React.js, and React Native.
 
 ---
-## Table of Contents
+## 🔎 Table of Contents
 - [01 - Homepage Flutuar](https://github.com/renataprs/desafios-explorer-rocketseat/tree/main/Desafio-01_flutuar)
 - [02 - Homepage Treine.me](https://github.com/renataprs/desafios-explorer-rocketseat/tree/main/Treine-me)
 
