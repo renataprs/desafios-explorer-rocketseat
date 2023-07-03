@@ -12,12 +12,6 @@
  <a href="#-Table-of-Contents">Projects</a> •
  </p>
 
-### Let's Connect!🤝
-Please feel free to connect with me: <br><br>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renataprs/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renataprs)
----
-
 ## 👋 Welcome!
 *In this repository, I document all of my accomplishments and knowledge gained through Explorer, a coding bootcamp offered by [Rocketseat](https://www.rocketseat.com.br/). Here, you can explore a collection of projects that showcase my growth as a developer. With each project, I aim to demonstrate my ability to solve real-world problems using code.*
 
@@ -26,11 +20,17 @@ Please feel free to connect with me: <br><br>
 
 ---
 ## 🔎 Table of Contents
-- [01 - Landing Page Flutuar](https://github.com/renataprs/desafios-explorer-rocketseat/tree/main/Desafio-01_flutuar) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renataprs/)
+[!HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) [!CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+- [01 - Landing Page Flutuar](https://github.com/renataprs/desafios-explorer-rocketseat/tree/main/Desafio-01_flutuar)
 - [02 - Landing Page Treine.me](https://github.com/renataprs/desafios-explorer-rocketseat/tree/main/Treine-me)
 - [03 - Landing Page Rocket.Sect](https://github.com/renataprs/desafios-explorer-rocketseat/tree/main/rocketsect)
 
 
+### Let's Connect!🤝
+Please feel free to connect with me: <br><br>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renataprs/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renataprs)
 
 
 
