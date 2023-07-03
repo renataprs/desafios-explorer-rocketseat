@@ -10,12 +10,13 @@
 <p align="center">
  <a href="#-Welcome">About</a> •
  <a href="#-Table-of-Contents">Projects</a> •
+ <a href="https://www.linkedin.com/in/renataprs/">Linkedin</a>
  </p>
 
 ## 👋 Welcome!
 *In this repository, I document all of my accomplishments and knowledge gained through Explorer, a coding bootcamp offered by [Rocketseat](https://www.rocketseat.com.br/). Here, you can explore a collection of projects that showcase my growth as a developer. With each project, I aim to demonstrate my ability to solve real-world problems using code.*
 
-**Want to know more about my professional experience? Let's connect on [LinkedIn](https://www.linkedin.com/in/renataprs/)!**
+Want to know more about my professional experience? **Let's connect on [LinkedIn](https://www.linkedin.com/in/renataprs/)!**
 
 
 
