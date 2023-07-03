@@ -26,7 +26,7 @@ Please feel free to connect with me: <br><br>
 
 ---
 ## 🔎 Table of Contents
-- [01 - Landing Page Flutuar](https://github.com/renataprs/desafios-explorer-rocketseat/tree/main/Desafio-01_flutuar)
+- [01 - Landing Page Flutuar](https://github.com/renataprs/desafios-explorer-rocketseat/tree/main/Desafio-01_flutuar) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renataprs/)
 - [02 - Landing Page Treine.me](https://github.com/renataprs/desafios-explorer-rocketseat/tree/main/Treine-me)
 - [03 - Landing Page Rocket.Sect](https://github.com/renataprs/desafios-explorer-rocketseat/tree/main/rocketsect)
 
