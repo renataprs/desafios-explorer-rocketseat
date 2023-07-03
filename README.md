@@ -15,8 +15,9 @@
 ## 👋 Welcome!
 *In this repository, I document all of my accomplishments and knowledge gained through Explorer, a coding bootcamp offered by [Rocketseat](https://www.rocketseat.com.br/). Here, you can explore a collection of projects that showcase my growth as a developer. With each project, I aim to demonstrate my ability to solve real-world problems using code.*
 
-### About Rocketseat Coding School
->Rocketseat stands as one of Brazil's premier coding schools, renowned for its hands-on programs. Their coding bootcamps, namely "Explorer" and "Ignite," offer immersive learning experiences in cutting-edge web and mobile development technologies. These bootcamps emphasize full-stack JavaScript development, specifically focusing on Node.js, React.js, and React Native.
+Want to know more about my professional experience? Let's connect on [LinkedIn](https://www.linkedin.com/in/renataprs/)!
+
+
 
 ---
 ## 🔎 Table of Contents
@@ -27,14 +28,6 @@
 - [03 - Landing Page Rocket.Sect](https://github.com/renataprs/desafios-explorer-rocketseat/tree/main/rocketsect)
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-
-
-
-### Let's Connect!🤝
-Please feel free to connect with me: <br><br>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renataprs/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renataprs)
 
 
 
