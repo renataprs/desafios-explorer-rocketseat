@@ -9,7 +9,7 @@
 </p>
 <p align="center">
  <a href="#-Welcome">About</a> •
- <a href="#-Projects-&-Challenges">Projects</a> •
+ <a href="#-Projects">Projects</a> •
  <a href="https://www.linkedin.com/in/renataprs/">Linkedin</a>
  </p>
 
@@ -21,7 +21,7 @@ Want to know more about my professional experience? **Let's connect on [LinkedIn
 
 
 ---
-## 🔎 Projects & Challenges
+## 🔎 Projects
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 - [01 - Landing Page Flutuar](https://github.com/renataprs/desafios-explorer-rocketseat/tree/main/Desafio-01_flutuar)
