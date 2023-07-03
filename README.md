@@ -10,7 +10,7 @@
 <p align="center">
  <a href="#-Welcome">About</a> •
  <a href="#-Projects">Projects</a> •
- <a href="https://www.linkedin.com/in/renataprs/">Linkedin</a>
+ <a href="https://www.linkedin.com/in/renataprs/" target="_blank">Linkedin</a>
  </p>
 
 ## 👋 Welcome!
