@@ -3,10 +3,13 @@
 <h1 align="center">
  Rocketseat Bootcamp | Projects & Challenges 
 </h1>
+<!-- Badges -->
  <p align="center">
- <a href="https://github.com/renataprs" target="_blank"><img src="https://img.shields.io/badge/By-Renata%20Pires-%2310B9BD"></a>
-<a href="#" rel="nofollow"> <img src="https://img.shields.io/badge/Status-Always%20evolving-%237E57D7" style="max-width:100%;"></a>
+ <a href="https://github.com/renataprs"><img src="https://img.shields.io/badge/By-Renata%20Pires-586BB0?style=for-the-badge&logo=github"></a>
+ <a href="https://www.linkedin.com/in/renataprs/" target="_blank">
+ <img src="https://img.shields.io/badge/Linkedin%20Profile-405DE6?style=for-the-badge&logo=linkedin"></a>
 </p>
+<!-- Menu -->
 <p align="center">
  <a href="#-Welcome">About</a> •
  <a href="#-Projects">Projects</a> •
