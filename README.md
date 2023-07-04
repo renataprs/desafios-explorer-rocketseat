@@ -20,7 +20,7 @@
 
 Want to know more about my professional experience? **Let's connect on [LinkedIn](https://www.linkedin.com/in/renataprs/)!**
 <br>
-» You may also like to see my [side projects repo](https://github.com/renataprs/Side-Projects)
+💡 You may also like to see my **[side projects repo](https://github.com/renataprs/Side-Projects)**
 
 
 
