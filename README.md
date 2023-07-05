@@ -12,7 +12,7 @@
 <!-- Menu -->
 <p align="center">
  <a href="#-Welcome">About</a> •
- <a href="#-Projects">Projects</a> •
+ <a href="#-Projects">Projects</a>
  </p>
 
 ## 👋 Welcome!
@@ -25,13 +25,12 @@
 
 
 ## 📂 Projects
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Technologies: <img height="20" width="20" src="https://cdn.simpleicons.org/html5/A9A9A9" alt="HTML" title="HTML" /> <img height="20" width="20" src="https://cdn.simpleicons.org/css3/A9A9A9" alt="CSS" title="CSS"/> <img height="20" width="20" src="https://cdn.simpleicons.org/figma/A9A9A9" alt="Figma" title="Figma" />
 
-- [01 - Landing Page Flutuar](https://github.com/renataprs/desafios-explorer-rocketseat/tree/main/Desafio-01_flutuar)
-- [02 - Landing Page Treine.me](https://github.com/renataprs/desafios-explorer-rocketseat/tree/main/Treine-me)
-- [03 - Landing Page Rocket.Sect](https://github.com/renataprs/desafios-explorer-rocketseat/tree/main/rocketsect)
+- [Landing Page Flutuar](https://github.com/renataprs/desafios-explorer-rocketseat/tree/main/Desafio-01_flutuar)
+- [Landing Page Treine.me](https://github.com/renataprs/desafios-explorer-rocketseat/tree/main/Treine-me)
+- [Landing Page Rocket.Sect](https://github.com/renataprs/desafios-explorer-rocketseat/tree/main/rocketsect)
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 
 
