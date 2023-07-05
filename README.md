@@ -25,14 +25,14 @@
 
 
 ## 📂 Projects
-### Technologies: <img height="20" width="20" src="https://cdn.simpleicons.org/html5/A9A9A9" alt="HTML" title="HTML" /> <img height="20" width="20" src="https://cdn.simpleicons.org/css3/A9A9A9" alt="CSS" title="CSS"/> <img height="20" width="20" src="https://cdn.simpleicons.org/figma/A9A9A9" alt="Figma" title="Figma" />
+<img height="20" width="20" src="https://cdn.simpleicons.org/html5/A9A9A9" alt="HTML" title="HTML" /> <img height="20" width="20" src="https://cdn.simpleicons.org/css3/A9A9A9" alt="CSS" title="CSS"/> <img height="20" width="20" src="https://cdn.simpleicons.org/figma/A9A9A9" alt="Figma" title="Figma" />
 
 - [Landing Page Flutuar](https://github.com/renataprs/desafios-explorer-rocketseat/tree/main/Desafio-01_flutuar)
 - [Landing Page Treine.me](https://github.com/renataprs/desafios-explorer-rocketseat/tree/main/Treine-me)
 - [Landing Page Rocket.Sect](https://github.com/renataprs/desafios-explorer-rocketseat/tree/main/rocketsect)
 
 
-
+<hr>
 
 
 
