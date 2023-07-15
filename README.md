@@ -16,7 +16,7 @@
  </p>
 
 ## 👋 Welcome!
-*In this repository, I document all of my accomplishments and knowledge gained through Explorer, a coding bootcamp offered by [Rocketseat](https://www.rocketseat.com.br/). Here, you can explore a collection of projects that showcase my growth as a developer. With each project, I aim to demonstrate my ability to solve real-world problems using code.*
+*In this repository, I document all of my accomplishments and knowledge gained through Explorer, a coding bootcamp offered by [Rocketseat](https://www.rocketseat.com.br/). Here, you can explore a collection of projects that showcase my learning journey and my growth as a developer. Each project has challenged me to demonstrate my ability to solve real-world problems using code.*
 
 > 💡 Want to know more about my work experience? **Let's connect on [LinkedIn](https://www.linkedin.com/in/renataprs/)!** <br>
 > 👀 You may also like to see my **[Portfolio Website](#)** or some selected **[Personal Projects](https://github.com/renataprs/Personal-projects)**
