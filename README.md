@@ -1,7 +1,7 @@
 <img src="https://github.com/renataprs/desafios-explorer-rocketseat/blob/main/banner-explorer.png" width="100%"/>
 
 <h1 align="center">
- Rocketseat Bootcamp | Projects & Challenges 
+ Rocketseat's Explorer | Coursework projects 
 </h1>
 <!-- Badges -->
  <p align="center">
@@ -25,7 +25,12 @@
 
 
 ## 📂 Projects
-<img height="20" width="20" src="https://cdn.simpleicons.org/html5/A9A9A9" alt="HTML" title="HTML" /> <img height="20" width="20" src="https://cdn.simpleicons.org/css3/A9A9A9" alt="CSS" title="CSS"/> <img height="20" width="20" src="https://cdn.simpleicons.org/figma/A9A9A9" alt="Figma" title="Figma" />
+<h2 align="center" > 🛠 Tools & Technologies ⚙ </h2>
+<div align="center" >
+<img height="30" width="30" src="https://cdn.simpleicons.org/figma/6A5ACD" alt="Figma" title="Figma" /> <img height="30" width="30" src="https://cdn.simpleicons.org/html5/6A5ACD" alt="HTML" title="HTML" /> <img height="30" width="30" src="https://cdn.simpleicons.org/css3/6A5ACD" alt="CSS" title="CSS"/> <img height="30" width="30" src="https://cdn.simpleicons.org/javascript/6A5ACD" alt="Javascript" title="Javascript"/> <img height="30" width="30" src="https://cdn.simpleicons.org/nodedotjs/6A5ACD" alt="Node.js" title="Node.js"/> <img height="30" width="30" src="https://cdn.simpleicons.org/react/6A5ACD" alt="React.js" title="React.js"/> <img height="30" width="30" src="https://cdn.simpleicons.org/sqlite/6A5ACD" alt="SQLite" title="SQLite"/> <img height="30" width="30" src="https://cdn.simpleicons.org/git/6A5ACD" alt="Git" title="Git"/> <img height="30" width="30" src="https://cdn.simpleicons.org/github/6A5ACD" alt="GitHub" title="GitHub"/> <img height="30" width="30" src="https://cdn.simpleicons.org/heroku/6A5ACD" alt="Heroku" title="Heroku"/>
+</div>
+
+<h4 > Stage 01 » HTML, CSS </h4>
 
 - [Landing Page Flutuar](https://github.com/renataprs/desafios-explorer-rocketseat/tree/main/Desafio-01_flutuar)
 - [Landing Page Treine.me](https://github.com/renataprs/desafios-explorer-rocketseat/tree/main/Treine-me)
