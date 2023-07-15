@@ -1,6 +1,6 @@
 <img src="https://github.com/renataprs/desafios-explorer-rocketseat/blob/main/banner-explorer.png" width="100%"/>
 
-<h1 align="center">
+<h1 align="center" >
  Rocketseat's Explorer | Coursework projects 
 </h1>
 <!-- Badges -->
