@@ -1,7 +1,7 @@
 <h1 align="center"> Landing Page Rocket.sect </h1>
 <p align="center">
   <a href="README.en.md">English</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="README.md">Português</a>&nbsp;&nbsp;&nbsp;
+  <a href="readme.md">Português</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
