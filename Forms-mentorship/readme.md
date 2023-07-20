@@ -7,7 +7,8 @@
 <p align="center">
 <img width="50%" src="https://i.imgur.com/6t8er5i.jpg" alt="Project Image"/>
 </p>
-<h3 align="center"> View Live Project </h3>
+<h3 align="center"> View Live Project <a href="https://www.linkedin.com/in/renataprs/" target="_blank"></a>
+</h3>
 
 ## Desafio:
 Construir um formulário, a partir do layout fornecido. 
