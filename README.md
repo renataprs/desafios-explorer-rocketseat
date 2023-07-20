@@ -39,7 +39,7 @@
 
 <h4 > » Stage 03: Forms, validation, and customization </h4>
 
-- [Forms Mentorship](https://github.com/renataprs/projects-explorer-rocketseat/tree/main/Forms-mentorship)
+- [Mentor application form](https://github.com/renataprs/projects-explorer-rocketseat/tree/main/Forms-mentorship)
 
 
 <hr>
