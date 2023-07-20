@@ -1,19 +1,18 @@
-<h1 align="center"> Formulários e validação </h1>
+<h1 align="center"> Mentor application form </h1>
 <p align="center">
   <a href="README.en.md">English</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="readme.md">Português</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
-<img width="70%" src="https://i.imgur.com/avBHaqO.jpg" alt="Project Image"/>
+<img width="50%" src="https://i.imgur.com/6t8er5i.jpg" alt="Project Image"/>
 </p>
 
 ## Desafio:
-construir um formulário, a partir do layout fornecido. 
-
-
+Construir um formulário, a partir do layout fornecido. 
 
 ## Ferramentas & Tecnologias:
+<img height="25" width="25" src="https://cdn.simpleicons.org/figma/6c757d" alt="Figma" title="Figma" /> <img height="25" width="25" src="https://cdn.simpleicons.org/html5/6c757d" alt="HTML" title="HTML" /> <img height="25" width="25" src="https://cdn.simpleicons.org/css3/6c757d" alt="CSS" title="CSS"/>
 
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) [![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=%23EA4C1D
-)](#) 
+## 🖥 Project
+
