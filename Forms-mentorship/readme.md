@@ -7,8 +7,9 @@
 <p align="center">
 <img width="50%" src="https://i.imgur.com/6t8er5i.jpg" alt="Project Image"/>
 </p>
-<h3 align="center"> View Live Project <a href="https://www.linkedin.com/in/renataprs/" target="_blank"></a>
-</h3>
+<p align="center">
+<a href="https://renataprs.github.io/stage03/" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/view%20live%20project-1982c4?style=for-the-badge" /></a>
+</p>
 
 ## Desafio:
 Construir um formulário, a partir do layout fornecido. 
