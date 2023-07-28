@@ -39,7 +39,7 @@
 
 <h4 > » Stage 03: Forms, validation, and customization </h4>
 
-- [Mentor application form](https://github.com/renataprs/stage03/tree/main)
+- [Mentor application form](https://github.com/renataprs/stage03)
 
 
 <hr>
